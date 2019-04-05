@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 29 12:04:27 2019
 
-@author: 1023180
-"""
 from flask import Flask, render_template
 app = Flask(__name__)
 
